@@ -1,9 +1,6 @@
 def calculate_sum(a, b):
     return a + b
 
-def calculate_product(a, b):
-    return a * b
-
 def main():
     x = 5
     y = 10
