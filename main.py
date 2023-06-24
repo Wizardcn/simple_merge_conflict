@@ -1,6 +1,12 @@
 def calculate_sum(a, b):
     return a + b
 
+def calculate_difference(a, b):
+	return a - b
+
+def calculate_divide(a, b):
+	return a / b
+
 def main():
     x = 5
     y = 10
