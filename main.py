@@ -1,8 +1,11 @@
 def calculate_sum(a, b):
     return a + b
 
-def calculate_product(a, b):
-    return a * b
+def calculate_difference(a, b):
+	return a - b
+
+def calculate_divide(a, b):
+	return a / b
 
 def print_st(a):
 	print(a)
