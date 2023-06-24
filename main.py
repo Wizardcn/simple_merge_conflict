@@ -2,7 +2,7 @@ def calculate_sum(a, b):
     return a + b
 
 def calculate_difference(a, b):
-	return a - e
+	return a - b
 
 def calculate_divide(a, b):
 	return a / b
